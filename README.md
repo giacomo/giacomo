@@ -7,9 +7,10 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=giacomo&show_icons=true&locale=en&theme=dark_dimmed" alt="giacomo" /></p>
 
+<!--
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=giacomo&layout=compact" alt="giacomo" /></p>
 
-<!--
+
 **giacomo/giacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
