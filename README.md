@@ -7,6 +7,11 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=giacomo&show_icons=true&locale=en&theme=dark_dimmed" alt="giacomo" /></p>
 
+<br><br>
+
+<p><a href="https://www.buymeacoffee.com/devgiacomo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Buy_Me_a_Coffee_Logo.png" height="16" alt="buy giacomo a coffee"> buy me a coffe</a></p>
+
+
 <!--
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=giacomo&layout=compact" alt="giacomo" /></p>
 
