@@ -9,7 +9,7 @@
 
 <br><br>
 
-<p><a href="https://www.buymeacoffee.com/devgiacomo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Buy_Me_a_Coffee_Logo.png" height="16" alt="buy giacomo a coffee"> buy me a coffe</a></p>
+<p><a href="https://www.buymeacoffee.com/devgiacomo" target="_blank"><img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png" height="16" alt="buy giacomo a coffee"></a></p>
 
 
 <!--
