@@ -1,31 +1,44 @@
-### Hi there 👋 welcome
+### Hi there 👋 welcome to my profile!!!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=giacomo&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomo&show_icons=true&locale=en&layout=compact&theme=dark_dimmed" alt="giacomo" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=giacomo&show_icons=true&locale=en&theme=dark_dimmed" alt="giacomo" /></p>
+<div align="center">
+  <table style="border: none" border="none">
+    <tr>
+      <td align="center" style="border: none">
+        <img src="./followers.svg" alt="👥 Followers" width="200"/>
+      </td>
+      <td align="center" style="border: none">
+        <img src="./following.svg" alt="🤝 Following" width="200"/>
+      </td>
+      <td align="center">
+        <img src="./repos.svg" alt="📦 Repos" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./commits.svg" alt="💻 Commits" width="200"/>
+      </td>
+      <td align="center">
+        <img src="./issues.svg" alt="📝 Issues" width="200"/>
+      </td>
+      <td align="center">
+        <img src="./prs.svg" alt="🔀 Pull Requests" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./reviews.svg" alt="👀 Reviews" width="200"/>
+      </td>
+      <td align="center">
+        <img src="./years.svg" alt="⏳ Years" width="200"/>
+      </td>
+      <td align="center">
+        <img src="./languages-count.svg" alt="🌐 Languages" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br><br>
 
-<p><a href="https://www.buymeacoffee.com/devgiacomo" target="_blank"><img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png" height="16" alt="buy giacomo a coffee"></a></p>
+<p><a href="https://www.buymeacoffee.com/devgiacomo" target="_blank"><img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png" height="23" alt="buy giacomo a coffee"></a></p>
 
-
-<!--
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=giacomo&layout=compact" alt="giacomo" /></p>
-
-
-**giacomo/giacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
