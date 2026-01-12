@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="180">
+  <defs>
+    <linearGradient id="grad-B" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFB870;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f89e42;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="transparent"/>
+  
+  <g filter="url(#shadow)">
+    <rect x="0" y="0" width="220" height="180" rx="12" fill="#161b22" stroke="#f89e42" stroke-width="2"/>
+    
+    
+    <g transform="translate(80,15)">
+      <rect x="15" y="55" width="30" height="8" fill="#C67A2E" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#f89e42"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-B)" stroke="#C67A2E" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#FFB870" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#C67A2E"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">B</text>
+    </g>
+  
+    
+    <text x="110" y="105" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+      🤝 Following
+    </text>
+    
+    <rect x="65" y="125" width="90" height="20" rx="10" fill="#f89e42" opacity="0.2"/>
+    <text x="110" y="139" text-anchor="middle" fill="#f89e42" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+      Skilled
+    </text>
+  </g>
+  </svg>

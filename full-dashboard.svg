@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1015" height="730">
+  <defs>
+    <linearGradient id="grad-SSS" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-SS" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8E8E8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A0A0A0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-S" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8A87C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5A2B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-AAA" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6FD96F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2D8A3C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-AA" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8AC6FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3D7ABF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-A" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#C39EF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7D4FC4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-B" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFB870;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C67A2E;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-C" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#959CA5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4C535D;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.3"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <rect x="0" y="0" width="100%" height="80" fill="#161b22"/>
+  <text x="507.5" y="50" text-anchor="middle" fill="#c9d1d9" font-size="32" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+    🏆 giacomo's GitHub Trophies
+  </text>
+  
+    <g filter="url(#shadow)">
+      <rect x="30" y="130" width="220" height="180" rx="12" fill="#161b22" stroke="#f89e42" stroke-width="2"/>
+      
+      
+    <g transform="translate(110,145)">
+      <rect x="15" y="55" width="30" height="8" fill="#C67A2E" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#f89e42"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-B)" stroke="#C67A2E" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#FFB870" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#C67A2E"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">B</text>
+    </g>
+  
+      
+      <text x="140" y="235" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        👥 Followers
+      </text>
+      
+      <rect x="95" y="255" width="90" height="20" rx="10" fill="#f89e42" opacity="0.2"/>
+      <text x="140" y="269" text-anchor="middle" fill="#f89e42" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Skilled
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="275" y="130" width="220" height="180" rx="12" fill="#161b22" stroke="#f89e42" stroke-width="2"/>
+      
+      
+    <g transform="translate(355,145)">
+      <rect x="15" y="55" width="30" height="8" fill="#C67A2E" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#f89e42"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-B)" stroke="#C67A2E" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#FFB870" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#C67A2E"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">B</text>
+    </g>
+  
+      
+      <text x="385" y="235" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        🤝 Following
+      </text>
+      
+      <rect x="340" y="255" width="90" height="20" rx="10" fill="#f89e42" opacity="0.2"/>
+      <text x="385" y="269" text-anchor="middle" fill="#f89e42" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Skilled
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="520" y="130" width="220" height="180" rx="12" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+      
+      
+    <g transform="translate(600,145)">
+      <rect x="15" y="55" width="30" height="8" fill="#3D7ABF" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#58a6ff"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-AA)" stroke="#3D7ABF" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#58a6ff" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#58a6ff" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#8AC6FF" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#3D7ABF"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">AA</text>
+    </g>
+  
+      
+      <text x="630" y="235" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        📦 Repos
+      </text>
+      
+      <rect x="585" y="255" width="90" height="20" rx="10" fill="#58a6ff" opacity="0.2"/>
+      <text x="630" y="269" text-anchor="middle" fill="#58a6ff" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Expert
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="765" y="130" width="220" height="180" rx="12" fill="#161b22" stroke="#f89e42" stroke-width="2"/>
+      
+      
+    <g transform="translate(845,145)">
+      <rect x="15" y="55" width="30" height="8" fill="#C67A2E" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#f89e42"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-B)" stroke="#C67A2E" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#f89e42" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#FFB870" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#C67A2E"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">B</text>
+    </g>
+  
+      
+      <text x="875" y="235" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        💻 Commits
+      </text>
+      
+      <rect x="830" y="255" width="90" height="20" rx="10" fill="#f89e42" opacity="0.2"/>
+      <text x="875" y="269" text-anchor="middle" fill="#f89e42" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Skilled
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="30" y="335" width="220" height="180" rx="12" fill="#161b22" stroke="#6e7681" stroke-width="2"/>
+      
+      
+    <g transform="translate(110,350)">
+      <rect x="15" y="55" width="30" height="8" fill="#4C535D" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#6e7681"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-C)" stroke="#4C535D" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#6e7681" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#6e7681" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#959CA5" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#4C535D"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">C</text>
+    </g>
+  
+      
+      <text x="140" y="440" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        📝 Issues
+      </text>
+      
+      <rect x="95" y="460" width="90" height="20" rx="10" fill="#6e7681" opacity="0.2"/>
+      <text x="140" y="474" text-anchor="middle" fill="#6e7681" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Starter
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="275" y="335" width="220" height="180" rx="12" fill="#161b22" stroke="#6e7681" stroke-width="2"/>
+      
+      
+    <g transform="translate(355,350)">
+      <rect x="15" y="55" width="30" height="8" fill="#4C535D" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#6e7681"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-C)" stroke="#4C535D" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#6e7681" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#6e7681" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#959CA5" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#4C535D"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">C</text>
+    </g>
+  
+      
+      <text x="385" y="440" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        🔀 Pull Requests
+      </text>
+      
+      <rect x="340" y="460" width="90" height="20" rx="10" fill="#6e7681" opacity="0.2"/>
+      <text x="385" y="474" text-anchor="middle" fill="#6e7681" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Starter
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="520" y="335" width="220" height="180" rx="12" fill="#161b22" stroke="#6e7681" stroke-width="2"/>
+      
+      
+    <g transform="translate(600,350)">
+      <rect x="15" y="55" width="30" height="8" fill="#4C535D" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#6e7681"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-C)" stroke="#4C535D" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#6e7681" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#6e7681" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#959CA5" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#4C535D"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">C</text>
+    </g>
+  
+      
+      <text x="630" y="440" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        👀 Reviews
+      </text>
+      
+      <rect x="585" y="460" width="90" height="20" rx="10" fill="#6e7681" opacity="0.2"/>
+      <text x="630" y="474" text-anchor="middle" fill="#6e7681" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Starter
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="765" y="335" width="220" height="180" rx="12" fill="#161b22" stroke="#FFD700" stroke-width="2"/>
+      
+      
+    <g transform="translate(845,350)">
+      <rect x="15" y="55" width="30" height="8" fill="#CC9900" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#FFD700"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-SSS)" stroke="#CC9900" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#FFD700" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#FFD700" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#FFF4A3" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#CC9900"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">SSS</text>
+    </g>
+  
+      
+      <text x="875" y="440" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        ⏳ Years
+      </text>
+      
+      <rect x="830" y="460" width="90" height="20" rx="10" fill="#FFD700" opacity="0.2"/>
+      <text x="875" y="474" text-anchor="middle" fill="#FFD700" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Legendary
+      </text>
+    </g>
+    
+    <g filter="url(#shadow)">
+      <rect x="30" y="540" width="220" height="180" rx="12" fill="#161b22" stroke="#CD7F32" stroke-width="2"/>
+      
+      
+    <g transform="translate(110,555)">
+      <rect x="15" y="55" width="30" height="8" fill="#8B5A2B" rx="2"/>
+      <rect x="25" y="45" width="10" height="10" fill="#CD7F32"/>
+      <path d="M 10 20 Q 10 45 30 45 Q 50 45 50 20 L 48 10 Q 48 5 30 5 Q 12 5 12 10 Z" 
+            fill="url(#grad-S)" stroke="#8B5A2B" stroke-width="1.5"/>
+      <path d="M 10 15 Q 0 15 0 25 Q 0 30 5 30" fill="none" stroke="#CD7F32" stroke-width="2.5"/>
+      <path d="M 50 15 Q 60 15 60 25 Q 60 30 55 30" fill="none" stroke="#CD7F32" stroke-width="2.5"/>
+      <ellipse cx="25" cy="20" rx="8" ry="12" fill="#E8A87C" opacity="0.4"/>
+      <circle cx="30" cy="25" r="10" fill="#8B5A2B"/>
+      <text x="30" y="29" text-anchor="middle" fill="#fff" font-size="9" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">S</text>
+    </g>
+  
+      
+      <text x="140" y="645" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="600" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        🌐 Languages
+      </text>
+      
+      <rect x="95" y="665" width="90" height="20" rx="10" fill="#CD7F32" opacity="0.2"/>
+      <text x="140" y="679" text-anchor="middle" fill="#CD7F32" font-size="12" font-weight="bold" font-family="'Inter', 'Segoe UI', system-ui, sans-serif">
+        Epic
+      </text>
+    </g>
+    </svg>
